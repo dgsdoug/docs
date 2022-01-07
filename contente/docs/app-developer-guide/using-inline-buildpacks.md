@@ -1,4 +1,4 @@
-+++
+https://github.com/buildpacks/docs/actions/workflows/main.yml/badge.svg+++
 title="Using Inline Buildpacks"
 weight=7
 summary="Learn how to create an ephemeral buildpack to customize your build."
